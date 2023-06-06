@@ -195,6 +195,7 @@ p {
     grid-template-columns: auto auto;
     column-gap: 3rem;
     row-gap: 3rem;
+    justify-content: start;
   }
   .menu_item {
     display: grid;
